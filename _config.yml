@@ -13,18 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hunter Damron's GLD ePortfolio
+title: Hunter Damron
 email: hdamron@email.sc.edu
 description: >-
-  Hunter Damron's GLD ePorfolio
+  ePortfolio for Graduation with Leadership Distinction in Research
 baseurl: "/gld-eportfolio"
 url: ""
 #twitter_username: jekyllrb
 github_username:  hdamron17
 
+github:
+  repo: "https://github.com/hdamron17/GLD-ePortfolio"
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hyde
 plugins:
   - jekyll-feed
 
