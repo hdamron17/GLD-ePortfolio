@@ -7,6 +7,7 @@ layout: page
 
 # TODO
 
+<!-- {::options parse_block_html="true" /} -->
 <!-- <div class="mycontainer">
 <div class="mysection">
     Key Insight #1
@@ -18,3 +19,4 @@ layout: page
     Key Insight #3
 </div>
 </div> -->
+<!-- {::options parse_block_html="false" /} -->

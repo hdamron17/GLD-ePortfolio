@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+  <link rel="stylesheet" href="{{ "/assets/mystyle.css" | relative_url }}">
+
+  <body>
+
+    <div class="content container artifact">
+    <div class="page">
+        <h1 class="page-title">{{ page.title }}</h1>
+        {{ content }}
+    </div>
+    </div>
+  </body>
+</html>

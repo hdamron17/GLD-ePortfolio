@@ -21,21 +21,21 @@ order to create a change in your professional or life practices. Key insights al
 topics or issues in order to demonstrate your ability to think critically and see things from
 various perspectives.
 
-A key insight identifies learning that has been transformative toyou and that has caused a
+A key insight identifies learning that has been transformative to you and that has caused a
 change in your behavior or way of thinking.
 
 Questions:
 * What questions did your experiences raise for you as a student in your academic major?
 * How does the thinking and learning you demonstrate in your key insights take into account
   various factors (including perspectives, theories, facts, disciplines, experiences, etc.)?
-* How did you cometo understand that various perspectives and factors were useful to you and
+* How did you come to understand that various perspectives and factors were useful to you and
   your learning?
 
 Framework:
 * What?
   * What happened?
   * How did I feel? What were my reactions?
-  * What did I or mygroup accomplish?
+  * What did I or my group accomplish?
 * So what?
   * Why did I/we do this? What was the point?
   * What is the takeaway? What was learned?

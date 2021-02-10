@@ -25,7 +25,7 @@
     * Summer symposium
     * ACM presentations (robotics, ML, etc.) and Srivastava talk
     * CSCE 590 writing reports on projects
-    * MATH 499 presentation/reports
+    * MATH 599 presentation/reports
   * Research should be both useful and fun
     * Dominoes recreational problem with application in statistical mechanics
     * ACM Codeathon recreational problems

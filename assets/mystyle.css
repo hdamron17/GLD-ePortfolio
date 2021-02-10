@@ -28,3 +28,21 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.artifact {
+    max-width: none;
+}
+@media (min-width: 48em) {
+    .artifact {
+        margin-left: 2em;
+    }
+}
+@media (min-width: 64em) {
+    .artifact {
+        margin-left: 4em;
+    }
+}
+
+.container {
+    max-width: 80rem;
+}
