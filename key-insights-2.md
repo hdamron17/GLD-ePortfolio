@@ -4,7 +4,7 @@ title: Key Insight 2
 permalink: /key-insights/2/
 ---
 
-## Sharing with the community
+## Learning is a Two-Way Street
 
 As an Eagle Scout, I have always been fond of giving back to my community, whether through service projects or charity.
 In my time as an undergraduate researcher, I have discovered that it is just as important to contribute to the research community through papers and conference presentations.
@@ -27,7 +27,7 @@ Although the project itself likely will never reach production quality, I gained
 Artifact 2 is a link to the project with a link specifically to one of my primary contributions as well.
 
 * [Artifact 2](https://github.com/jyn514/saltwater): Link to the Saltwater C Compiler on GitHub
-  * [Pull Request #384](https://github.com/jyn514/saltwater/pull/474) shows the details of one of my additions to the project
+  * [Pull Request #474](https://github.com/jyn514/saltwater/pull/474) shows the details of one of my additions to the project
 
 In my classes, I have also had the opportunity to share my work.
 Specifically in MATH 599 (Mathematics of Machine Learning), each student presented on a topic in machine learning relevant to them.

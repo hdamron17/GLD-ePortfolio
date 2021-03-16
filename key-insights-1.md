@@ -4,7 +4,7 @@ title: Key Insight 1
 permalink: /key-insights/1/
 ---
 
-## Diverse perspectives
+## Diverse Perspectives Make Learning Personal
 
 In November of my freshman year, I joined the Autonomous Field Robotics Lab (AFRL) led by Dr. Ioannis Rekeleitis.
 Coming from a rural South Carolina town, it was a shock to be one of only two Americans in the group.
