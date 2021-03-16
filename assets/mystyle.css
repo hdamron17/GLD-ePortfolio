@@ -46,3 +46,18 @@
 .container {
     max-width: 80rem;
 }
+
+.myfig {
+    width: auto;
+    height: auto;
+}
+
+.myfig > img {
+    width: auto;
+    height: auto;
+}
+
+.myfig > figcaption {
+    font-size: 0.8rem;
+    text-align: center;
+}
