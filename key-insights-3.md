@@ -32,7 +32,7 @@ In the search for a problem, I stumbled upon a surprisingly efficient closed for
 To add some complexity, I imagined asking competitors to count the number of domino tilings of the surface of a cube, thinking it would only be a matter of repeating the process 6 times.
 However, in my exploration, I discovered that the problem was much harder than it appeared on the surface.
 In order to get a correct count of domino tilings on the surface of a cube, one must not only count the number of tilings for each side but also the number of such tilings which have rotational or line symmetry because the cube may be rotated without changing its identity.
-I took the question to my graph theory professor, Dr. Laszlo Szekely, for his advice and we discovered that there is no known efficient algorithm to count the number of domino tilings which are invariant under symmetry.
+I took the question to my graph theory professor, Dr. László Székely, for his advice and we discovered that there is no known efficient algorithm to count the number of domino tilings which are invariant under symmetry.
 What I originally intended as a competitive programming challenge instead became the thesis for my B.S. with Distinction in Mathematics, which I am still working on over a year later.
 Even further, my research on the topic has revealed that the question is not only a fun recreational math problem but also an important topic in statistical mechanics where it can be used to model dimer molecules on a plane.
 I am sharing my Magellan proposal for the project to show just how far I have strayed from the original question in my independent exploration.
